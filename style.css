@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    background-color: darkcyan;
+     padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#Origami{
+    background-color: darkcyan;
+}
+
+#Origami_1{
+    background-color: darkviolet;
+}
